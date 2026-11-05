@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" fill="none">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7E9E0"/>
+      <stop offset="1" stop-color="#E9D4C7"/>
+    </linearGradient>
+    <linearGradient id="silhouette" x1="330" y1="170" x2="635" y2="590" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B58A72"/>
+      <stop offset="1" stop-color="#80614F"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="640" rx="32" fill="url(#background)"/>
+  <circle cx="480" cy="320" r="205" fill="#FFF9F4" fill-opacity=".72"/>
+  <path d="M480 204c-75 0-127 53-127 128v31c0 20-9 37-21 51l-35 42c-14 17-3 43 19 43h328c22 0 33-26 19-43l-35-42c-12-14-21-31-21-51v-31c0-75-52-128-127-128Z" fill="url(#silhouette)"/>
+  <path d="M383 303c0-59 39-101 97-101s97 42 97 101" stroke="#E8CBB7" stroke-width="14" stroke-linecap="round"/>
+  <path d="M415 369c18 15 41 23 65 23s47-8 65-23" stroke="#F7E9E0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M414 463h132" stroke="#F7E9E0" stroke-width="10" stroke-linecap="round"/>
+  <text x="480" y="550" fill="#71553A" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="3" text-anchor="middle">STYLE PHOTO COMING SOON</text>
+</svg>

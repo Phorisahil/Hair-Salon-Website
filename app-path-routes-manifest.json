@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/favicon.ico/route": "/favicon.ico",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/admin/page": "/admin",
+  "/admin/login/page": "/admin/login",
+  "/booking/page": "/booking",
+  "/contact/page": "/contact",
+  "/gallery/page": "/gallery",
+  "/services/page": "/services",
+  "/review/[token]/page": "/review/[token]",
+  "/page": "/"
+}

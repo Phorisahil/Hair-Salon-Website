@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="Luxury salon styling concept">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f6efe8"/>
+      <stop offset="100%" stop-color="#ead7c6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="900" fill="url(#bg)"/>
+  <rect x="50" y="120" width="700" height="640" rx="30" fill="#f9f4f0"/>
+  <rect x="120" y="170" width="560" height="420" rx="25" fill="#e7d2be"/>
+  <circle cx="390" cy="330" r="120" fill="#edd8ba"/>
+  <path d="M330 345c40-70 105-95 154-55 38 30 53 77 51 118 55-20 75-63 53-110-26-53-96-80-165-73-70 7-125 62-130 128-9 71 40 123 100 144-20-33-30-70-23-112z" fill="#1d1a1a"/>
+  <rect x="200" y="620" width="400" height="70" rx="22" fill="#d3a882"/>
+  <rect x="270" y="690" width="260" height="25" rx="12" fill="#c38f62"/>
+  <circle cx="150" cy="610" r="30" fill="#f0d4c0"/>
+  <circle cx="660" cy="610" r="30" fill="#f0d4c0"/>
+</svg>
